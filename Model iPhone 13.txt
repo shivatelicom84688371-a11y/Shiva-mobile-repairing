@@ -1,0 +1,43 @@
+"Model: iPhone 13
+Config Description: IPHONE 13,ROW,128GB,STARLIGHT
+Config Code: 000DQX
+Serial Number: H4R94F7H53
+IMEI: 355178632236761
+IMEI2: 355178632230400
+MEID: 35517863223676
+EID: 89049032007008882600120910917993
+Product Line: 300428
+Sold By: FLIPKART INDIA PVT LTD
+Warranty Status: Out Of Warranty (No Coverage)
+Warranty Code: OO
+Purchase Date: 2022-09-23
+Registration Date: 2022-09-22
+Limited Warranty: No
+Onsite Coverage: No
+Labor Covered: No
+Part Covered: No
+Personalized Device: No
+Carrier: Jio
+Applied Activation Policy: Unlock.
+Initial Activation Policy: Unlock.
+Next Tether Policy: Unlock.
+Unlock Date: 2025-06-13 06:19:17
+OS Version: 26.6.1
+First Activation Date: 2022-09-23 04:26:25
+Last Restore Date: 2026-09-01 08:27:41
+Last Unbrick OS Build: 23G83
+MDM Lock: Off
+FMI: On
+GSX Unlock: Yes
+DEP Enrolled: No
+Loaner Device: No
+Product Family: iPhone
+Iccid: 89918720400334256433
+Country: India
+Activation Policy Ids: Initial 10 / Applied 10 / Next Tether 10
+Wireless Mac Address: B067B5716995
+Repair Mode: No
+Managed Financing: No
+
+Replacement History: No
+GSX Cases: No"

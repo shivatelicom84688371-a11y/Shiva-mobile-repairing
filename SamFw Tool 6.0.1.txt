@@ -1,0 +1,153 @@
+SamFw Tool 6.0.1
+
+ [SAMSUNG]
+ - Add read IMEI2 and Security Patch Level on MTP Information
+ [FRP] - Optimize Exynos FRP unlock, fix some issue
+ [EDL] - Add SM-F711N bit E, SM-F721B bit C, SM-F926B bit I
+ [EDL] - Add SM-F956B bit 4, SM-G9980 bit G, SM-G998U bit J
+ [EDL] - Add SM-S901E bit E, SM-S911B bit A, SM-S916B bit A
+ [EDL] - Add SM-S918U bit 8, SM-S918W bit 8
+
+ [APPLE]
+ - Add support basic iPhone/iPad read information Normal/Recovery/DFU mode
+ - Add Reboot to Recovery mode, Reboot to Normal mode
+ - Fix some bugs
+
+Please only buy credits directly on the website: https://samfw.com/frp
+We do not ask you to send money. Keep your money safe
+
+
+This port not support this function. Please select a Serial port
+
+
+Using port SAMSUNG Mobile USB Modem #18 (COM9)
+Reading info mode Download mode ... OK
+
+Model		: SM-M346B
+CSC		: INS
+AP version	: M346BXXSCEZD8
+Bit		: C
+FWVER		: 0006
+Unique number	: CE032373B08A19D1397E
+Storage		: 128
+Vendor		: SAMSUNG
+Disk		: KM2L9001CM-B518
+DID		: 2000f60f11184011
+TMU_TEMP	: 39
+Firmware	: https://samfw.com/firmware/SM-M346B/INS
+
+
+Using port SAMSUNG Mobile USB Modem #9 (COM40)
+Reading info mode MTP ...	OK
+Model	: SM-M346B
+CSC	: INS
+AP version	: M346BXXSCEZD8
+BL version	: M346BXXSCEZD8
+CP version	: M346BXXSCEZD8
+CSC version	: M346BODMCEZD8
+Bit	: C
+Security patch level	: 2026-04-05
+IMEI	: 350886060408703
+IMEI2	: 354836580408705
+SN	: RZCW61NR26X
+Lock status	: NONE
+Country	: IN
+MCC	: ,
+MNC	: ,
+USB mode	: AT,MTP
+Unique number	: CE032373B08A19D1397E
+Android version	: 16
+FRP status	: LOCK
+Firmware	: https://samfw.com/firmware/SM-M346B/INS
+
+
+Using port SAMSUNG Mobile USB Modem #9 (COM40)
+Reading info mode MTP ... 	FAIL
+Error read information from this port
+
+
+Using port SAMSUNG Mobile USB Modem #9 (COM40)
+Reading info mode Download mode ... FAIL
+
+
+Using port SAMSUNG Mobile USB Modem #9 (COM40)
+Reading info mode MTP ...	OK
+Model	: SM-M346B
+CSC	: INS
+AP version	: M346BXXSCEZD8
+BL version	: M346BXXSCEZD8
+CP version	: M346BXXSCEZD8
+CSC version	: M346BODMCEZD8
+Bit	: C
+Security patch level	: 2026-04-05
+IMEI	: 350886060408703
+IMEI2	: 354836580408705
+SN	: RZCW61NR26X
+Lock status	: NONE
+Country	: IN
+MCC	: ,
+MNC	: ,
+USB mode	: AT,MTP
+Unique number	: CE032373B08A19D1397E
+Android version	: 16
+FRP status	: LOCK
+Firmware	: https://samfw.com/firmware/SM-M346B/INS
+
+
+Using port SAMSUNG Mobile USB Modem #9 (COM40)
+Reading info mode MTP ...	OK
+Model	: SM-M346B
+CSC	: INS
+AP version	: M346BXXSCEZD8
+BL version	: M346BXXSCEZD8
+CP version	: M346BXXSCEZD8
+CSC version	: M346BODMCEZD8
+Bit	: C
+Security patch level	: 2026-04-05
+IMEI	: 350886060408703
+IMEI2	: 354836580408705
+SN	: RZCW61NR26X
+Lock status	: NONE
+Country	: IN
+MCC	: ,
+MNC	: ,
+USB mode	: AT,MTP
+Unique number	: CE032373B08A19D1397E
+Android version	: 16
+FRP status	: UNLOCK
+Firmware	: https://samfw.com/firmware/SM-M346B/INS
+
+
+Using port SAMSUNG Mobile USB Modem #23 (COM25)
+Reading info mode MTP ...	OK
+Model	: SM-S721B
+CSC	: INS
+AP version	: S721BXXS7BYH2
+BL version	: S721BXXS7BYH2
+CP version	: S721BXXS7BYH2
+CSC version	: S721BODM7BYH2
+Bit	: 7
+Security patch level	: 2025-08-01
+IMEI	: 350659043420271
+IMEI2	: 350864803420277
+SN	: RZCY922QDWE
+Lock status	: NONE
+Country	: IN
+MCC	: 404,
+MNC	: 11,
+USB mode	: AT,MTP
+Unique number	: CE072597A5CC30B5517E
+Android version	: 15
+FRP status	: LOCK
+Firmware	: https://samfw.com/firmware/SM-S721B/INS
+Using port SAMSUNG Mobile USB Modem #23 (COM25)
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+Sending ADB exploit (normal)... 	OK
+
+"
